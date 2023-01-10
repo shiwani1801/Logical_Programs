@@ -14,7 +14,7 @@ public class ReverseNumber {
             reverse = reverse * 10 + Remainder;
             num = num / 10;
         }
-        System.out.println("reversed no. is=" + reverse);
+        System.out.println(" reversed no. is=" + reverse);
     }
 }
 
